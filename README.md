@@ -1,6 +1,6 @@
 # 📅 Plataforma de Reserva de Recursos de Escritório
 
-> Desafio de treinamento desenvolvido na **Stefanini** utilizando **Power Apps** e **Dataverse**.
+> Desafio de treinamento desenvolvido na **Stefanini Group | Squad RPA** utilizando **Power Apps** e **Dataverse**.
 
 ---
 
@@ -37,13 +37,13 @@ Solução desenvolvida para eliminar o uso de planilhas compartilhadas e trocas 
 ```
 Power Apps (Canvas App)
     │
-    ├── Tela de Galeria ──────────► Listagem e filtro de reservas
+    ├── Telas de Galeria ──────────► Listagem e filtro de reservas
     ├── Tela de Criação ──────────► Formulário de nova reserva
     └── Tela de Edição/Exclusão ──► Gerenciamento de reservas
             │
             ▼
         Dataverse
-    (Tabelas: Recursos, Reservas, Usuários)
+    (Tabelas: Recursos, Reservas)
             │
             ▼
   Conector Office 365 Outlook (nativo Power Apps)
@@ -82,7 +82,7 @@ Com a plataforma:
 
 ## 👤 Autor
 
-Desenvolvido individualmente como desafio de treinamento na **Stefanini**.
+Desenvolvido por Thais Vitória Fosaluza como desafio de treinamento na **Stefanini Group | Squad RPA**.
 
 ---
 
